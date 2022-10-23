@@ -1,0 +1,17 @@
+ body {
+    background-color: darkorange;
+    background-image: url("/images/basketball.jpg");
+}
+h1, h2, h3, figure, nav {
+    text-align: center;
+}
+table, th, td, tr {
+    border: 2px dotted red;
+    padding: 6px 8px 6px 8px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
